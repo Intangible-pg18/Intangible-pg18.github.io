@@ -13,7 +13,7 @@ certification:
       They will share with you their personal stories and give you career advice.
 
   - layout: layout/left-cer
-    name: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+    name: Improving Deep Neural Networks, Hyperparameter Tuning, Regularization and Optimization
     link: https://coursera.org/share/4c9f0833d22aca6aa33d7ad93e3c0a28
     qualification: Deep Learning.ai 
     provider: Coursera
