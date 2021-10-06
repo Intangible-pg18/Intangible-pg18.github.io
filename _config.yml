@@ -40,7 +40,7 @@ favicon: images/fav.ico
 about_profile_image: images/1586960384677.jpg
 about_content: | # this will include new lines to allow paragraphs
   A B.Tech student with keen interest in <mark>Data Science</mark> and <mark>Machine Learning</mark>.
-  With only one goal in life- to combine the power of Artificial Intelligence and Computer Vision to upscale the production of self driven transportation and visual security.
+  With only one goal in life- to combine the power of Artificial Intelligence and Computer Vision to upscale the production of <mark>automated transportation</mark> and <mark>visual security</mark>.
 
   <b>I'm currently working on</b>: <mark>Full Stack Web Development</mark> skills
 
@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   - <mark>Machine Learning</mark> : <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="40" height="40"/> <img src="https://en.wikipedia.org/wiki/Pandas_(software)#/media/File:Pandas_logo.svg" alt="pandas" width="40" height="40"/> <img src="https://en.wikipedia.org/wiki/Matplotlib#/media/File:Matplotlib_logo.svg" alt="matplotlib" width="40" height="40"/>
   
   - <mark>DevOps</mark> : <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="linux-terminal" width="40" height="40"/>
-  Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/prateek-shukla-34267718b/) anytime. Always ready to talk <b>Tech</b>.
+  <br></br>Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/prateek-shukla-34267718b/) anytime. Always ready to talk <b>Tech</b>.
 
 
 # Projects Section
