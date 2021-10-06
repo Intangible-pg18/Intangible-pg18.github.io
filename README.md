@@ -8,9 +8,7 @@
 
 
 Website hosting my resume and profile
-Website link : <a href="https://vinayak19th.github.io/">link</a>
-
-[Source Code for downloading ](https://github.com/vinayak19th/vinayak19th.github.io/releases/)
+Website link : <a href="https://intangible-pg18.github.io/">link</a>
 
 A modern simple static resume template and theme. Powered by Jekyll and GitHub pages. Host your own resume on GitHub for free!
 
@@ -42,7 +40,7 @@ Based on : [modern-resume-theme](https://github.com/sproogen/modern-resume-theme
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/vinayak19th/vinayak19th.github.io. You can view our full guide to contributing [here](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/CONTRIBUTING.md)
+Bug reports and pull requests are welcome on GitHub at https://github.com/Intangible-pg18/Intangible-pg18.github.io. You can view our full guide to contributing [here](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/CONTRIBUTING.md)
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
@@ -71,7 +69,7 @@ Fork this repository (helps with awareness and contributions) and clone it on yo
 $ git clone https://github.com/vinayak19th/vinayak19th.github.io.git
 ```
 
-or download the source code from [releases](https://github.com/vinayak19th/vinayak19th.github.io/releases/)
+or download the source code from [releases](https://github.com/Intangible-pg18/Intangible-pg18.github.io/releases/)
 ### Step 3 - Create your repository
 
 Create a repository on GitHub to host your website. You can find out how to do that [here](https://pages.github.com/)
@@ -119,7 +117,7 @@ So now you will be able to see the demo template at your github URL. You can can
 
 ## `_config.yml`
 This will contain all the of the main configuration for your resume such as your name, email, social media links and about me content. It also contains all the content for your resume.  
-A full example of the _config.yml can be found [here](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_config.yml)
+A full example of the _config.yml can be found [here](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_config.yml)
 
 **Main config options:**
 
@@ -156,32 +154,32 @@ The [_data](https://github.com/vinayak19th/vinayak19th.github.io/tree/master/_da
 1. General Notes:
     * Do not change the layout unless you want really messed up front end
     * You **CAN** leave fields blank without too much trouble
-    * Add **NEW** fields **WILL NOT** automatically update them into pages. You will need to modify the respective [layout](https://github.com/vinayak19th/vinayak19th.github.io/tree/master/_includes/layout) to have them appear. Refer to the Jekyll documentation.
-2. [education.yml](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_data/education.yml):
+    * Add **NEW** fields **WILL NOT** automatically update them into pages. You will need to modify the respective [layout](https://github.com/Intangible-pg18/Intangible-pg18.github.io/tree/master/_includes/layout) to have them appear. Refer to the Jekyll documentation.
+2. [education.yml](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_data/education.yml):
     * Basic options
     * Only updates the about page
-3. [experience_edu.yml](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_data/experience_edu.yml):
+3. [experience_edu.yml](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_data/experience_edu.yml):
     * Used to highlight things like *committee* & *club* memberships in college
     * Can use doc links for certificates
-4. [experience.yml](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_data/experience.yml):
+4. [experience.yml](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_data/experience.yml):
     * Used to show **professional** positions such as jobs and internships 
     * Can use doc links for LOR's etc
-5. [projects.yml](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_data/projects.yml):
+5. [projects.yml](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_data/projects.yml):
     * Used to populate your projects on GitHub
     * You have to add a Github link by just using username/repo-name in the **github** field
     * The repo cards and stats will be **updated automatically** by this change
-7. [awards](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_data/awards):
+7. [awards](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_data/awards):
     * Used to list achievements
     * You can add a seperate non-tech yml file to include those
     * Added to about page
-8. [certification](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_data/certification):
+8. [certification](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_data/certification):
     * **Most complex to understand**
     * The files in this folder are used **populate the tabs** in the certification page
     * The addition of tabs is automatic and based on the name of the file you create
     * All details in the files within are reproduced on their own
     * **Only supports the providers** Coursera and edX right now, feel free to add more and submit a PR
     * **CANNOT LEAVE PROVIDERS EMPTY**
-9. [pages.yml](https://github.com/vinayak19th/vinayak19th.github.io/blob/master/_data/pages.yml):
+9. [pages.yml](https://github.com/Intangible-pg18/Intangible-pg18.github.io/blob/master/_data/pages.yml):
     * Used to populate the navbar.
     * Leave it unchanged unless you are adding new pages
 
