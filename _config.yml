@@ -36,7 +36,7 @@ githubstats: True
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-favicon: images/fav.ico
+favicon: images/1586960384677.ico
 about_profile_image: images/1586960384677.jpg
 about_content: | # this will include new lines to allow paragraphs
   A B.Tech student with keen interest in <mark>Data Science</mark> and <mark>Machine Learning</mark>.
