@@ -11,10 +11,6 @@ certification:
       The Deep Learning Specialization was created and is taught by Dr. Andrew Ng, a global leader in AI and co-founder of Coursera.
       In addition to the lectures and programming assignments, you will also watch exclusive interviews with many Deep Learning leaders. 
       They will share with you their personal stories and give you career advice.
-      
-      * CNN models
-      
-      * RNN models
 
   - layout: layout/left-cer
     name: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
@@ -26,6 +22,4 @@ certification:
       The Deep Learning Specialization was created and is taught by Dr. Andrew Ng, a global leader in AI and co-founder of Coursera.
       In addition to the lectures and programming assignments, you will also watch exclusive interviews with many Deep Learning leaders. 
       They will share with you their personal stories and give you career advice.
-        
-      - Hyperparameter tuning
 
