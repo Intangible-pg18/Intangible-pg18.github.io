@@ -1,20 +1,3 @@
-# Resume 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/vinayak19th/vinayak19th.github.io?color=FFD43B&style=for-the-badge)
-[![Website](https://img.shields.io/website?down_color=ff3300&down_message=Offline&style=for-the-badge&up_color=339933&up_message=Online&url=https%3A%2F%2Fvinayaksharma.tech%2F)](https://vinayaksharma.tech/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&color=339933)](http://makeapullrequest.com)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jekyll-ff3300?style=for-the-badge&logo=Jekyll)](https://jekyllrb.com/)
-[![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/vinayak1998th/resume-container?label=Docker%20Image&logo=Docker&style=for-the-badge)](https://hub.docker.com/repository/docker/vinayak1998th/resume-container)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?&style=for-the-badge&color=FFD43B)](https://lbesson.mit-license.org/)
-
-
-Website hosting my resume and profile
-Website link : <a href="https://intangible-pg18.github.io/">link</a>
-
-A modern simple static resume template and theme. Powered by Jekyll and GitHub pages. Host your own resume on GitHub for free!
-
-Based on : [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) **Major Modifications across the board**
-
-
 ## Notable Features:
 * System persistent dark mode (Remembers your preference via cookies)
 * Live Github based Statistcs
