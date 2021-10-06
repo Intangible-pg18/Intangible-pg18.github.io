@@ -2,9 +2,11 @@ topic : Extra
 id : q_c
 certification:  
   - layout: layout/left-cer
-    name: 
-    link: 
-    provider: 
-    qualification: 
-    field :
+    name: Microsoft SQL Server 2012 Certification Training Exam 70-461
+    link: https://www.udemy.com/certificate/UC-839b36fb-7344-45ca-b294-4061b6d167a3/
+    provider: Udemy
+    qualification: Infinite Skills
+    field : Database Management
     description: > # this will include new lines to allow paragraphs
+     This Microsoft SQL Server 70-461 Exam training course by Infinite Skills teaches you everything you need to know to pass the Querying Microsoft SQL Server 2012 exam.
+     It is required that you pass the 70-461 Exam in order to earn your MCSA: SQL Server certification from Microsoft. 
